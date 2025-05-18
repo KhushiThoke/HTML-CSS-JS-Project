@@ -16,6 +16,6 @@ A simple and stylish **To-Do List** web app built using **HTML**, **CSS**, and *
 
 ## 🌐 Live Demo
 
-👉 [View the App on GitHub Pages](https://KhushiThoke.github.io/todo-list-app/)
+👉 [View the App on GitHub Pages](https://github.com/KhushiThoke/HTML-CSS-JS-Project)
 
 
